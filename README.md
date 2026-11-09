@@ -14,15 +14,17 @@
 ---
 
 ## 👁️ The point of view
- 
+
 > Building useful things and learning in public.
- 
-- 🛠️ Building the useful things
+
 - 📱 Building cross-platform apps with **Flutter & Dart**
 - 🌐 Full-stack web projects with **HTML, CSS, JavaScript**
 - 🌱 Learning: **Advanced Flutter, Backend, System Design**
 - 🤝 Open to **internships, collaborations and open-source contributions**
+
 *Small, useful work over vague claims.*
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -63,16 +65,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabh-vision&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-vision&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh-vision&theme=tokyonight" alt="Profile Details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh-vision&theme=tokyonight" alt="Repos per Language" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saurabh-vision&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-vision&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
