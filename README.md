@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saurabh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Flutter+%26+Full-Stack+Developer;Final+Year+%40+NIT+Agartala;Learning%2C+Building+%26+Sharing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Flutter+%26+Full-Stack+Developer;Learning%2C+Building+%26+Sharing" alt="Typing SVG" />
 </p>
 
 <p align="center">
